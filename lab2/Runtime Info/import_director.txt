@@ -1,0 +1,2 @@
+Runtime: Finished in 0.2 seconds
+Total number of records imported: 166

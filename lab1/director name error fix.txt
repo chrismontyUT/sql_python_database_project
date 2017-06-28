@@ -1,0 +1,7 @@
+Our watchlist.csv dataset lists directors as they appear on a movie poster.
+
+Example) Director of the Matrix = The Wachowski Brothers
+
+
+This makes using first name and last name both as primary keys impossible for our database so instead we used just director_name as our
+primary key.

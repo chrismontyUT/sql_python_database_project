@@ -1,0 +1,22 @@
+Lab 1: description of datasets
+
+1. Watchlist.csv
+Organization that published the data sets: International Movie Database(IMDB)
+File format of dataset: csv
+Attribute/description: contains list of top 250 movies with corresponding titles, 
+release year, IMDB rating, runtime, genres, and directors. We plan on making "Movie", 
+"Genre", "IMBD Stats", and "Director" as entity classes with corresponding attrbutes.
+The "title" attribute for Movie and IMDB Stats will likely be the primary key.  
+An interesting aspect of our dataset is that we will need junction tables for the 
+many to many relationships. These junction tables will be for movie-director and 
+movie-genre. 
+
+Dataset URL:http://www.imdb.com/user/ur68968844/watchlist?ref_=wt_nv_wl_all_0
+Also dataset is located in the repo. 
+
+
+
+
+
+
+
